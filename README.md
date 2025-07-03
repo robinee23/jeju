@@ -1,1 +1,48 @@
-# jeju
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>제주대학교 계절학기</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            margin: 0;
+            padding: 0;
+            font-family: 'Arial', sans-serif;
+        }
+
+        h1 {
+            text-align: center;
+            padding-top: 50px;
+            font-size: 2.5em;
+        }
+
+        p {
+            text-align: center;
+            font-size: 1.5em;
+            margin-top: 20px;
+            color: #cccccc;
+        }
+
+        .bg-music {
+            position: absolute;
+            width: 0;
+            height: 0;
+            overflow: hidden;
+        }
+    </style>
+</head>
+<body>
+    <h1>제주대학교 계절학기 수업에서 만든 페이지</h1>
+    <p>지은이와 로빈이의 제주 여행 – 지은이는 자는 중...zzz</p>
+
+    <div class="bg-music">
+        <iframe 
+            src="https://www.youtube.com/embed/PlDudxUMAho?autoplay=1&loop=1&playlist=PlDudxUMAho&mute=1" 
+            frameborder="0" 
+            allow="autoplay"
+        ></iframe>
+    </div>
+</body>
+</html>
